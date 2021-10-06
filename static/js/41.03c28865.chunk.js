@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[41],{1543:function(e,t,n){"use strict";n.r(t);var a=n(0),u=n.n(a),c=n(605),i=n(26),r=n(278),l=function(e){return e.isAuthenticated?u.a.createElement(c.a,{to:"/welcome"}):u.a.createElement(a.Fragment,null,u.a.createElement(r.a,null))};l.defaultProps={isAuthenticated:!1},t.default=Object(i.b)(function(e){return{isAuthenticated:e.auth.isAuthenticated}})(l)}}]);
+//# sourceMappingURL=41.03c28865.chunk.js.map
